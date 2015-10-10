@@ -1,0 +1,3 @@
+[submodule "StuckProcCoreScreening"]
+	path = StuckProcCoreScreening
+	url = git@github.com:CharlesMcKinnis/StuckProcCoreScreening.git
